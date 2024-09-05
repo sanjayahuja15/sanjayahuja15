@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanjay Ahuja
-- 👀 I’m interested in Python coding
-- 🌱 I’m currently learning Python
+- 👀 I’m a DevOps Engineer
+- 🌱 I'm currently learning multiple coding languages
 - 💞️ I’m looking to collaborate on linkedIn
 - 📫 How to reach me @sanjayahuja15 on github.
 
